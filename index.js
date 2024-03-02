@@ -10,9 +10,9 @@ const attendance = [
     social_link: "https://linkedin.com/in/john",
   },
   {
-    id: 3,
-    name: "John 3",
-    social_link: "https://linkedin.com/in/john3",
+    id: 4,
+    name: "John 4",
+    social_link: "https://linkedin.com/in/john4",
   },
 ];
 
