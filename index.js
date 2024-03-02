@@ -9,6 +9,11 @@ const attendance = [
     name: "John 2",
     social_link: "https://linkedin.com/in/john",
   },
+  {
+    id: 3,
+    name: "John 3",
+    social_link: "https://linkedin.com/in/john3",
+  },
 ];
 
 const ol = document.querySelector("ol");
